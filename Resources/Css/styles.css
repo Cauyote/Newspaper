@@ -1,0 +1,112 @@
+
+.background{
+  background-image: url(Newspaper\Resources\Images\Background.jpg);
+}
+
+.header{
+  height:200px;
+  width:1800px;
+  margin: 0 auto;
+}
+.Image1{
+  height: 280px;
+  width: 300px;
+  text-align: center;
+          margin: 0px 75px auto;
+}
+.line{
+  background-color: black;
+  height: 600px;
+  width:2px;
+float:left;
+}
+
+.line1{
+  width:1600px;
+  height:2px;
+  background-color: black;
+  margin:0 auto;
+}
+
+.line2{
+  background-color: black;
+  width: 1800px;
+  height: 2px;
+  margin-top: 5px;
+}
+
+.logo{
+  width: 1800px;
+  height: 175px;
+  background-color: gray;
+  background-image: url('../images/The Real Banner.png');
+}
+nav{
+  background-color: red;
+  width: 1800px;
+  height: 25px;
+  text-align: center;
+}
+.content{
+  background-color: brown;
+  height: 600px;
+  width: 1400px;
+  margin-top: 10px;
+  margin: 0 auto;
+}
+
+h3{
+  margin-bottom: 8px;
+  margin-top: 0px;
+}
+
+p{
+  margin: 0px;
+}
+
+.column{
+  background-color: darkgrey;
+  height: 600px;
+  width: 455.3px;
+  margin: 5px;
+
+  float:left;
+/*margin: 0px 16.6px;*/
+}
+
+.story{
+  background-color: grey;
+  width:455.3px;
+  height: 280px;
+  margin: 10px 0px;
+}
+/*start of content2*/
+.content2{
+  background-color: orange;
+  width: 1400px;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 10px
+}
+.content3{
+  background-color: pink;
+  width: 1400px;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 10px
+}
+
+.side-article{
+  background-color: brown;
+  width: 200px;
+  height: 490px;
+  margin: 5px;
+  float: left;
+}
+.middle-article{
+background-color: grey;
+width: 970px;
+height: 490px;
+margin: 5px;
+float: left;
+}
